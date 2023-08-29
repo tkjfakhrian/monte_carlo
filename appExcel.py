@@ -3,7 +3,6 @@ from streamlit_option_menu import option_menu
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pymysql as pm
 import math
 
 class MainClass() :
